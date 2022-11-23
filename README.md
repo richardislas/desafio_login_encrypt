@@ -1,3 +1,3 @@
-# INICIO DE SESIÓN - PASSPORT - MONGO DB  
+# INICIO DE SESIÓN MONGO DB  
    
-Desafío de clase 26 - CODERHOUSE  
+Desafio 26 Inicio de seecion e encriptación 
